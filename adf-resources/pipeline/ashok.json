@@ -12,6 +12,12 @@
 				}
 			}
 		],
+		"parameters": {
+			"ashok": {
+				"type": "string",
+				"defaultValue": "10"
+			}
+		},
 		"annotations": []
 	}
 }
